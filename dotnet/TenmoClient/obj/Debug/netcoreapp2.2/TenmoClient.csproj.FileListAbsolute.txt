@@ -1,0 +1,12 @@
+C:\Users\Student\workspace\module2-capstone-c-team-0\Capstone\dotnet\TenmoClient\bin\Debug\netcoreapp2.2\TenmoClient.deps.json
+C:\Users\Student\workspace\module2-capstone-c-team-0\Capstone\dotnet\TenmoClient\bin\Debug\netcoreapp2.2\TenmoClient.runtimeconfig.json
+C:\Users\Student\workspace\module2-capstone-c-team-0\Capstone\dotnet\TenmoClient\bin\Debug\netcoreapp2.2\TenmoClient.runtimeconfig.dev.json
+C:\Users\Student\workspace\module2-capstone-c-team-0\Capstone\dotnet\TenmoClient\bin\Debug\netcoreapp2.2\TenmoClient.dll
+C:\Users\Student\workspace\module2-capstone-c-team-0\Capstone\dotnet\TenmoClient\bin\Debug\netcoreapp2.2\TenmoClient.pdb
+C:\Users\Student\workspace\module2-capstone-c-team-0\Capstone\dotnet\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.csprojAssemblyReference.cache
+C:\Users\Student\workspace\module2-capstone-c-team-0\Capstone\dotnet\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\module2-capstone-c-team-0\Capstone\dotnet\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.AssemblyInfo.cs
+C:\Users\Student\workspace\module2-capstone-c-team-0\Capstone\dotnet\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\module2-capstone-c-team-0\Capstone\dotnet\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.dll
+C:\Users\Student\workspace\module2-capstone-c-team-0\Capstone\dotnet\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.pdb
+C:\Users\Student\workspace\module2-capstone-c-team-0\Capstone\dotnet\TenmoClient\obj\Debug\netcoreapp2.2\TenmoClient.genruntimeconfig.cache
